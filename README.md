@@ -1,10 +1,11 @@
-# tumopp
+# tumopp-API
 
 [![Build status](https://github.com/heavywatal/tumopp/workflows/build/badge.svg)](https://github.com/heavywatal/tumopp/actions)
 
 *tumopp* is a fast and flexible tumor growth simulator.
 The core library is written in C++.
 It can be installed and run via [R package](https://github.com/heavywatal/rtumopp/).
+**You can use it quickly by running ./run.sh -h.**
 
 
 ## Requirements
