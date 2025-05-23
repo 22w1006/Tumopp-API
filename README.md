@@ -8,7 +8,8 @@ It can be installed and run via [R package](https://github.com/heavywatal/rtumop
 
 **You can use it quickly by running**
 ```sh
-./run.sh -h.
+cd tumopp-API
+./run.sh -h
 ```
 
 
