@@ -5,7 +5,11 @@
 *tumopp* is a fast and flexible tumor growth simulator.
 The core library is written in C++.
 It can be installed and run via [R package](https://github.com/heavywatal/rtumopp/).
-**You can use it quickly by running ./run.sh -h.**
+
+**You can use it quickly by running
+```sh
+./run.sh -h.
+```**
 
 
 ## Requirements
