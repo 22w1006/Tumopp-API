@@ -65,7 +65,6 @@ tumopp -N20000 -D3 -Chex -k100 -d0.1 -m0.5 -o OUTPUT_DIR
 
 
 lalalal   
-alalala2
 ## Reference
 
 Watal M. Iwasaki and Hideki Innan (2017)
