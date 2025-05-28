@@ -64,7 +64,6 @@ tumopp -N20000 -D3 -Chex -k100 -d0.1 -m0.5 -o OUTPUT_DIR
 - @ref params
 
 
-lalalal   
 ## Reference
 
 Watal M. Iwasaki and Hideki Innan (2017)
